@@ -1,22 +1,4 @@
----
-language:
-- en
-- de
-- fr
-- fa
-- ar
-- tr
-- es
-- it
-- zh
-- ko
-- ja
-metrics:
-- accuracy
-pipeline_tag: document-question-answering
-tags:
-- text-generation-inference
----
+
 ### MultiModal MultiLingual (3ML)
 
 This model is 4bit quantized of [glm-4v-9b](https://huggingface.co/THUDM/glm-4v-9b) Model (Less than 9G). 
