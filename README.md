@@ -1,5 +1,5 @@
 
-# MultiModal MultiLingual (3ML)
+# MultiModal MultiLingual (3ML) ChatBot
 
 This model is 4bit quantized of [glm-4v-9b](https://huggingface.co/THUDM/glm-4v-9b) Model (Less than 9G). 
 
@@ -47,5 +47,16 @@ with torch.no_grad():
     outputs = outputs[:, inputs['input_ids'].shape[1]:]
     print(tokenizer.decode(outputs[0]))
 ```
-##Results:
+##Samples:
+![Screenshot from 2024-06-12 17-52-59](https://github.com/nikravan1/3ML/assets/17721448/d9a27314-d539-471c-9a26-3cf98890a8e5)
+
+![Screenshot from 2024-06-12 17-54-59](https://github.com/nikravan1/3ML/assets/17721448/7cf77373-1d3f-4d01-a64a-0eb7478309f7)
+
+![image](https://github.com/nikravan1/3ML/assets/17721448/3aeca087-ebb2-47cc-b357-6331c6470b67)
+![Screenshot from 2024-06-12 18-01-05](https://github.com/nikravan1/3ML/assets/17721448/bdfe943b-0b0a-4477-b822-38726b67f44d)
+
+
+
+
+
 
