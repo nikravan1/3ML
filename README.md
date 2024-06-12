@@ -1,7 +1,7 @@
 
 # MultiModal MultiLingual (3ML) ChatBot
 
-This model is 4bit quantized of [glm-4v-9b](https://huggingface.co/THUDM/glm-4v-9b) Model (Less than 9G). 
+This model is [4bit quantized](https://huggingface.co/nikravan/glm-4vq) of lm-4v-9b Model (Less than 9G). 
 
  It excels in document, image, chart questioning answering and delivers superior performance over GPT-4-turbo-2024-04-09, Gemini 1.0 Pro, Qwen-VL-Max, and Claude 3 Opus.
 
