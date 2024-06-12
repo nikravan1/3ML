@@ -1,12 +1,13 @@
 
-### MultiModal MultiLingual (3ML)
+# MultiModal MultiLingual (3ML)
 
 This model is 4bit quantized of [glm-4v-9b](https://huggingface.co/THUDM/glm-4v-9b) Model (Less than 9G). 
 
  It excels in document, image, chart questioning answering and delivers superior performance over GPT-4-turbo-2024-04-09, Gemini 1.0 Pro, Qwen-VL-Max, and Claude 3 Opus.
 
 Some part of the original Model changed and It can excute on free version of google colab.
-# Try it: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aZGX9f5Yw1WbiOrS3TpvPk_UJUP_yYQU?usp=sharing)
+### Try it:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aZGX9f5Yw1WbiOrS3TpvPk_UJUP_yYQU?usp=sharing)
 
 Note: For optimal performance with document and image understanding, please use English or Chinese. The model can still handle chat in any supported language.
 ### About GLM-4V-9B
