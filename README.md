@@ -9,6 +9,8 @@ Some part of the original Model changed and It can excute on free version of goo
 ### Try it with gradio support:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VH1tlpl_N4nRS2q5k0lxu5H_taEL0MOw?usp=sharing)
 
+[###demo](https://huggingface.co/spaces/nikravan/3ML_bot)
+
 Note: For optimal performance with document and image understanding, please use English or Chinese docs. The model can still handle chat in any supported language.
 
 ## Quick Start
